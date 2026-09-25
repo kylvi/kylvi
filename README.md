@@ -1,3 +1,6 @@
+
+<a href="https://kylie-lam.info"><img src="https://github.com/user-attachments/assets/cff99653-3bbd-4508-92aa-d2308365fe06" alt="Kylie Lam banner" width="100%"></a>
+
 # Hi, I'm Kylie 😺
 
 **Product designer · I design apps, then I build them**<br>
@@ -7,9 +10,6 @@ I studied design in Brisbane, Australia (Bachelor of Communication Design, Queen
 
 Now I design and build apps that make decisions easier. For example, a common problem in Tokyo: *"I don't need this anymore. What do I do with it?"* <img src="https://github.com/user-attachments/assets/1fc5c822-c9ca-4599-a21b-c4b859cae27a" alt="Tossibly" height="22" align="absmiddle">
 
-<a href="https://kylie-lam.info"><img src="https://github.com/user-attachments/assets/cff99653-3bbd-4508-92aa-d2308365fe06" alt="Kylie Lam banner" width="100%"></a>
-
----
 
 ## 🌱 What I've built
 
