@@ -42,7 +42,7 @@ Take a photo of something you don't need anymore. Tossibly tells you what to do 
 
 Type what you need in simple words, like *"a pricing card with 3 plans and round corners"*. Kitly writes the HTML and CSS for you. You can see the result right away, change it by chatting, and save it to your kit.
 
-**My part:** Design lead. I designed the homepage, the design system and the preview screen. I also wrote the pitch and presented it with Aya!👯‍♀️
+**My part:** Design lead. I designed the homepage, the design system and the preview screen. I also wrote the pitch and presented it with Aya 👯‍♀️
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI API`
 </td>
@@ -54,7 +54,16 @@ Type what you need in simple words, like *"a pricing card with 3 plans and round
 ### [Beep Nicely](https://timer-stops-by-your-own-voice.base44.app/)
 *Solo project · made after graduation*
 
-An interval timer for workouts. When a round ends, it beeps once and keeps going. It also tells you what to do next in your own recorded voice, like *"Switch to the left side!"* The hamster runs while the timer runs, and sits down when you pause. 🐹
+An interval timer for workouts. 🐹
+
+**The problem:** When you're working out (for example, following a workout video), it's hard to read a timer. You can't quickly tell if it's work time or rest time.
+
+**My solution:** The whole background changes colour, so one quick look is enough:
+
+- 🟠 **Warm orange** = work time
+- 🟢 **Cool green** = rest time
+
+When a round ends, it beeps once and keeps going. It also tells you what to do next in your own recorded voice, like *"Switch to the left side!"* The hamster runs while the timer runs, and sits down when you pause.
 
 **My part:** Everything: the idea, the design and the build. A classmate helped me test it on different browsers.
 
