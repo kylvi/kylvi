@@ -1,14 +1,13 @@
 # Hi, I'm Kylie 😺
 
-**Product designer who builds · Multidisciplinary designer · Le Wagon Tokyo grad (Sept 2026) · Shanghai → Tokyo**
+**Product designer · I design apps, then I build them**<br>
+Le Wagon Tokyo coding bootcamp graduate (Sept 2026) · Shanghai → Tokyo
 
-Trained as a designer in Brisbane, Australia (Bachelor of Communication Design, Queensland College of Art). I then spent 3 years at IBM learning how people actually make decisions. Now I build products that make those decisions easier — starting with the very Tokyo problem of *what on earth do I do with this thing I no longer want* <img src="https://github.com/user-attachments/assets/1fc5c822-c9ca-4599-a21b-c4b859cae27a" alt="Tossibly" height="22" align="absmiddle">
+I studied design in Brisbane, Australia (Bachelor of Communication Design, Queensland College of Art). Then I worked at IBM for 3 years, making personas and user journey maps for clients. There, I learned how people really make decisions.
 
-<a href="https://kylie-lam.info"><img src="https://github.com/user-attachments/assets/1ccde2cc-1e64-42d9-872f-b9cf68dff783" alt="Kylie Lam — I design products, then I build them" width="100%"></a>
+Now I design and build apps that make decisions easier. For example, a common problem in Tokyo: *"I don't need this anymore. What do I do with it?"* <img src="https://github.com/user-attachments/assets/1fc5c822-c9ca-4599-a21b-c4b859cae27a" alt="Tossibly" height="22" align="absmiddle">
 
-
-
-
+<a href="https://kylie-lam.info"><img src="https://github.com/user-attachments/assets/cff99653-3bbd-4508-92aa-d2308365fe06" alt="Kylie Lam banner" width="100%"></a>
 
 ---
 
@@ -20,11 +19,16 @@ Trained as a designer in Brisbane, Australia (Bachelor of Communication Design, 
 <td valign="top">
 
 ### [Tossibly](https://www.tossibly.tech) · [code](https://github.com/dholmes-jp/tossibly)
-*Le Wagon final project · team of 3*
+*Le Wagon final project · made with [Drew Holmes](https://github.com/dholmes-jp) and [Ayaka Kikuchi](https://github.com/ayakakikuchi-222)*
 
-Photograph something you're getting rid of, and Tossibly tells you whether to **list it** on Jimoty (with an AI-drafted bilingual listing and real nearby asking prices) or **toss it** under your ward's actual rules — down to "a potted plant is three kinds of waste at once." 🪴🔥
+Take a photo of something you don't need anymore. Tossibly tells you what to do with it:
 
-**My part:** design lead & front-end — landing page, design system, scan page, item pages, dashboard, calendar UI, mobile layouts, daily testing of the AI.
+- **Give it away or sell it** on Jimoty. The AI writes your post in English and Japanese, and shows prices of similar items nearby.
+- **Throw it away** the right way, following your ward's rules. Even tricky things: a plant in a pot is 3 kinds of garbage! 🪴🔥
+
+**My part:** Design lead and front-end. I made the design system (logo and colours). I designed and built the landing page, scan page, item pages, dashboard and mobile layout. I also designed the calendar screens, and tested the AI every day to find bugs.
+
+**Team:** Drew had the idea, led the team, built the AI part and put the app online. Aya built the Chrome extension, the calendar and the API.
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI Vision` `Cloudinary` `Heroku`
 </td>
@@ -34,25 +38,25 @@ Photograph something you're getting rid of, and Tossibly tells you whether to **
 <td valign="top">
 
 ### [Kitly](https://kitly-5add6d99969e.herokuapp.com/) · [code](https://github.com/ayakakikuchi-222/kitly)
-*Le Wagon AI project · team of 3*
+*Le Wagon AI project · made with [Ayaka Kikuchi](https://github.com/ayakakikuchi-222) and [Drew Holmes](https://github.com/dholmes-jp)*
 
-Describe a UI component in plain words — "a rounded pricing card with three tiers" — and get working HTML and CSS back. Preview it live, refine it by chatting, save it to your kit.
+Type what you need in simple words, like *"a pricing card with 3 plans and round corners"*. Kitly writes the HTML and CSS for you. You can see the result right away, change it by chatting, and save it to your kit.
 
-**My part:** design lead — homepage, design system, the component preview experience; wrote and delivered the pitch.
+**My part:** Design lead. I designed the homepage, the design system and the preview screen. I also wrote the pitch and presented it with Aya!👯‍♀️
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI API`
 </td>
 </tr>
 <tr>
-<td width="280" valign="top"><img src="DRAG-HAMSTER-GIF-HERE" width="260" alt="Beep Nicely"></td>
+<td width="280" valign="top"><img src="https://github.com/user-attachments/assets/64f78e65-9a79-4362-9851-5a448826a3f9" width="260" alt="Beep Nicely"></td>
 <td valign="top">
 
 ### [Beep Nicely](https://timer-stops-by-your-own-voice.base44.app/)
-*Solo · the week after graduation*
+*Solo project · made after graduation*
 
-An interval timer that chimes once and keeps going — and tells you "switch to the left side" in your own recorded voice. The hamster runs while the timer runs, and sits down when you pause. 🐹
+An interval timer for workouts. When a round ends, it beeps once and keeps going. It also tells you what to do next in your own recorded voice, like *"Switch to the left side!"* The hamster runs while the timer runs, and sits down when you pause. 🐹
 
-**My part:** everything — problem, design, build, and cross-browser testing with a classmate.
+**My part:** Everything: the idea, the design and the build. A classmate helped me test it on different browsers.
 
 `Base44` `Web Audio` `MediaRecorder`
 </td>
@@ -63,7 +67,7 @@ An interval timer that chimes once and keeps going — and tells you "switch to 
 
 ## 🧭 How I work
 
-**Find** the real problem → **Shape** the system before the screen → **Build** it, then watch someone try to break it.
+**Find** the real problem → **Plan** the whole system before drawing screens → **Build** it, and test it with real people
 
 ---
 
@@ -83,8 +87,10 @@ An interval timer that chimes once and keeps going — and tells you "switch to 
 ---
 
 ## 💬 Right now
-- Looking for a **product design or design engineer role in Tokyo** — English (native-level) · Cantonese · Japanese (learning)
-- Polishing Tossibly's mobile experience
-- Always happy to talk about design systems, Rails, and life in Tokyo as a foreigner
 
-📫 **Reach me:** [kylie-lam.info](https://kylie-lam.info) · hello@kylie-lam.info
+- Looking for a **product designer or design engineer job in Tokyo**
+- Languages: English (native level) · Cantonese · Japanese (learning)
+- Making Tossibly work better on phones
+- Happy to chat about design systems, Rails, and life in Tokyo as a foreigner
+
+📫 **Contact:** [kylie-lam.info](https://kylie-lam.info) · [hello@kylie-lam.info](mailto:hello@kylie-lam.info)
