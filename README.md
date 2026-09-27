@@ -26,9 +26,9 @@ Take a photo of something you don't need anymore. Tossibly tells you what to do 
 - **Give it away or sell it** on Jimoty. The AI writes your post in English and Japanese, and shows prices of similar items nearby.
 - **Throw it away** the right way, following your ward's rules. Even tricky things: a plant in a pot is 3 kinds of garbage! 🪴🔥
 
-**My part:** Design lead and front-end. I made the design system (logo and colours). I designed and built the landing page, scan page, item pages, dashboard and mobile layout. I also designed the calendar screens, and tested the AI every day to find bugs.
+**My part:** Design lead and front-end. I made the design system (logo, colours and components) and updated every page to follow it. I designed and built the landing page, login and signup pages, scan page, item list, item pages and mobile layout. I also designed the dashboard, redesigned the calendar screens, and tested the AI every day to find bugs.
 
-**Team:** Drew had the idea, led the team, built the AI part and put the app online. Aya built the Chrome extension, the calendar and the API.
+**Team:** Drew led the team, built the AI part and the disposal rules, and put the app online. Aya built the Chrome extension, the API, the calendar with reminders, the Jimoty category matching, and the setup to add Tossibly to your phone's home screen (PWA).
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI Vision` `Cloudinary` `Heroku`
 </td>
