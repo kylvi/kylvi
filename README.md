@@ -42,7 +42,7 @@ Take a photo of something you don't need anymore. Tossibly tells you what to do 
 
 Type what you need in simple words, like *"a pricing card with 3 plans and round corners"*. Kitly writes the HTML and CSS for you. You can see the result right away, change it by chatting, and save it to your kit.
 
-**My part:** Design lead and front-end. I designed the homepage, the design system (colours and fonts) and the preview screen, and I wrote most of the app's CSS. I also built the login and signup pages, the alert messages and the copy button for the code. I wrote the pitch and presented it. The live demo at the end was my idea too: we pasted the code Kitly made (a banner, buttons and colours) into an empty HTML page, so everyone could see it working on a real web page.
+**My part:** Design lead and front-end. I designed the homepage, the design system (colours and fonts) and the preview screen, and I wrote most of the app's CSS. I also built the login and signup pages, the alert messages and the copy button for the code. I wrote the pitch and presented it with Aya 👯‍♀️ The live demo at the end was my idea too: we pasted the code Kitly made (a banner, buttons and colours) into an empty HTML page, so everyone could see it working on a real web page.
 
 **Team:** Aya set up the app and built the database, the chat (you change a component by talking to the AI) and the background job. Drew built the kit list page and the AI part that creates a new kit. They both worked on the AI prompts.
 
