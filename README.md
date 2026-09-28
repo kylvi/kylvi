@@ -6,17 +6,14 @@
 **Product designer · I design apps, then I build them**<br>
 Le Wagon Tokyo coding bootcamp graduate (Sept 2026) · Shanghai → Tokyo
 
-I studied design in Brisbane, Australia (Bachelor of Communication Design, Queensland College of Art). Then I worked at IBM for 3 years, making personas and user journey maps for clients. There, I learned how people really make decisions.
+I studied design in Brisbane, Australia. Then I worked at IBM for 3 years, making personas and user journey maps for clients. There, I learned how people really make decisions.
 
 Now I design and build apps that make decisions easier. For example, a common problem in Tokyo: *"I don't need this anymore. What do I do with it?"* <img src="https://github.com/user-attachments/assets/1fc5c822-c9ca-4599-a21b-c4b859cae27a" alt="Tossibly" height="22" align="absmiddle">
 
 
 ## 🌱 What I've built
 
-<table>
-<tr>
-<td width="280" valign="top"><img src="https://github.com/user-attachments/assets/e7a1fd62-0ecf-4b8e-9152-211072aff576" width="260" alt="Tossibly on a phone"></td>
-<td valign="top">
+<a href="https://www.tossibly.tech"><img src="https://github.com/user-attachments/assets/bc2be91b-70b8-4ad5-b649-15a585ceb6c2" alt="Tossibly: Snap it. Price it. Let it go. AI helps foreigners in Japan decide whether to toss, give away, or sell unwanted items." width="100%"></a>
 
 ### [Tossibly](https://www.tossibly.tech) · [code](https://github.com/dholmes-jp/tossibly)
 *Le Wagon final project · made with [Drew Holmes](https://github.com/dholmes-jp) and [Ayaka Kikuchi](https://github.com/ayakakikuchi-222)*
@@ -31,11 +28,10 @@ Take a photo of something you don't need anymore. Tossibly tells you what to do 
 **Team:** Drew led the team, built the AI part and the disposal rules, and put the app online. Aya built the Chrome extension, the API, the calendar with reminders, the Jimoty category matching, and the setup to add Tossibly to your phone's home screen (PWA).
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI Vision` `Cloudinary` `Heroku`
-</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="https://github.com/user-attachments/assets/a993bf47-c009-4234-9831-1b314b099930" width="260" alt="Kitly"></td>
-<td valign="top">
+
+<br>
+
+<a href="https://kitly-5add6d99969e.herokuapp.com/"><img src="https://github.com/user-attachments/assets/2c0b10c8-64f6-4087-aed6-fbbbe192f4a4" alt="Kitly: Build a beautiful site without designing from scratch. Chat with Kitly, preview every component, and copy the HTML and CSS into your project." width="100%"></a>
 
 ### [Kitly](https://kitly-5add6d99969e.herokuapp.com/) · [code](https://github.com/ayakakikuchi-222/kitly)
 *Le Wagon AI project · made with [Ayaka Kikuchi](https://github.com/ayakakikuchi-222) and [Drew Holmes](https://github.com/dholmes-jp)*
@@ -47,11 +43,10 @@ Type what you need in simple words, like *"a pricing card with 3 plans and round
 **Team:** Aya set up the app and built the database, the chat (you change a component by talking to the AI) and the background job. Drew built the kit list page and the AI part that creates a new kit. They both worked on the AI prompts.
 
 `Rails 7` `PostgreSQL` `Hotwire` `OpenAI API`
-</td>
-</tr>
-<tr>
-<td width="280" valign="top"><img src="https://github.com/user-attachments/assets/64f78e65-9a79-4362-9851-5a448826a3f9" width="260" alt="Beep Nicely"></td>
-<td valign="top">
+
+<br>
+
+<a href="https://timer-stops-by-your-own-voice.base44.app/"><img src="https://github.com/user-attachments/assets/04d25df1-e6d2-4c8e-a2c7-16ecc3b05a29" alt="Beep Nicely: Cute timer. Smart workouts. Use your own voice, choose from 8 cute chime sounds, and auto-stop or continue the next round." width="100%"></a>
 
 ### [Beep Nicely](https://timer-stops-by-your-own-voice.base44.app/)
 *Solo project · made after graduation*
@@ -70,9 +65,7 @@ When a round ends, it beeps once and keeps going. It also tells you what to do n
 **My part:** Everything: the idea, the design and the build. A classmate helped me test it on different browsers.
 
 `Base44` `Web Audio` `MediaRecorder`
-</td>
-</tr>
-</table>
+
 
 ---
 
