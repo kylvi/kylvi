@@ -46,7 +46,7 @@ Type what you need in simple words, like *"a pricing card with 3 plans and round
 
 <br>
 
-<a href="https://timer-stops-by-your-own-voice.base44.app/"><img src="https://github.com/user-attachments/assets/04d25df1-e6d2-4c8e-a2c7-16ecc3b05a29" alt="Beep Nicely: Cute timer. Smart workouts. Use your own voice, choose from 8 cute chime sounds, and auto-stop or continue the next round." width="100%"></a>
+<a href="https://timer-stops-by-your-own-voice.base44.app/"><img src="https://github.com/user-attachments/assets/0fac2451-3c38-49eb-9a44-4c6f57e5c32d" alt="Beep Nicely: Cute timer. Smart workouts. Use your own voice, choose from 8 cute chime sounds, and auto-stop or continue the next round." width="100%"></a>
 
 ### [Beep Nicely](https://timer-stops-by-your-own-voice.base44.app/)
 *Solo project · made after graduation*
@@ -65,6 +65,8 @@ When a round ends, it beeps once and keeps going. It also tells you what to do n
 **My part:** Everything: the idea, the design and the build. A classmate helped me test it on different browsers.
 
 `Base44` `Web Audio` `MediaRecorder`
+
+
 
 
 ---
