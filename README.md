@@ -30,9 +30,9 @@ Take a photo of something you don't need anymore. Tossibly tells you what to do 
 
 <br>
 
-<a href="https://github.com/ayakakikuchi-222/kitly"><img src="https://github.com/user-attachments/assets/2c0b10c8-64f6-4087-aed6-fbbbe192f4a4" alt="Kitly: Build a beautiful site without designing from scratch. Chat with Kitly, preview every component, and copy the HTML and CSS into your project." width="100%"></a>
+<a href="https://kitly-5add6d99969e.herokuapp.com/"><img src="https://github.com/user-attachments/assets/2c0b10c8-64f6-4087-aed6-fbbbe192f4a4" alt="Kitly: Build a beautiful site without designing from scratch. Chat with Kitly, preview every component, and copy the HTML and CSS into your project." width="100%"></a>
 
-### Kitly · [code](https://github.com/ayakakikuchi-222/kitly)
+### [Kitly](https://kitly-5add6d99969e.herokuapp.com/) · [code](https://github.com/ayakakikuchi-222/kitly)
 *Le Wagon AI project · made with [Ayaka Kikuchi](https://github.com/ayakakikuchi-222) and [Drew Holmes](https://github.com/dholmes-jp)*
 
 Type what you need in simple words, like *"a pricing card with 3 plans and round corners"*. Kitly writes the HTML and CSS for you. You can see the result right away, change it by chatting, and save it to your kit.
